@@ -10,4 +10,4 @@ I've explored these through projects at [University](https://goo.gl/NUzUTC) and 
 
 I also enjoy [photography](https://500px.com/aishwaryasahu), sketching and diving.
 
-If you would like to work with me, or just grab a coffee, I can be reached by <a href="mailto:aishwarya.s@live.com">email</a>
+If you would like to work with me, or grab a coffee and have a chat, I can be reached by <a href="mailto:aishwarya.s@live.com">email</a>
