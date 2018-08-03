@@ -1,6 +1,6 @@
-<img src="upme.jpg" alt="my photo" width="400" height="400" align="left" hspace="20">
+<img src="upme.jpg" alt="my photo" width="500" height="500" align="left" hspace="20">
 
-<font size = "6"> HI! I'M AISHWARYA </font>
+<font size = "7"> HI! I'M AISHWARYA </font>
 
 I'm a penultimate year student at University of New South Wales and I'm studying Mechanical Engineering.
 
