@@ -1,5 +1,5 @@
 
-<img src="upme.jpg" alt="my photo" width="350" height="350" align="left" hspace="20">
+<img src="upme.jpg" alt="my photo" width="400" height="400" align="left" hspace="20">
 I'm a penultimate year student at University of New South Wales and I'm studying Mechanical Engineering.
 
 I'm a young globetrotter.
@@ -9,3 +9,5 @@ I enjoy design thinking and data science.
 I've explored these through projects at [University](https://goo.gl/NUzUTC) and at various Hackathons.
 
 I also enjoy [photography](https://500px.com/aishwaryasahu), sketching and diving.
+
+If you would like to work with me, or just grab a coffee, I can be reached by <a href="mailto:aishwarya.s@live.com">email</a>
