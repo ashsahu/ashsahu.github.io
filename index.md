@@ -1,4 +1,4 @@
-<img src="upme.jpg" alt="my photo" width="500" height="500" align="right" hspace="20" vspace="70">
+<img src="upme.jpg" alt="my photo" width="400" height="400" align="right" hspace="30" vspace="100">
 
 <font size = "7"> HI! I'M AISHWARYA </font>
 
