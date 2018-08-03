@@ -1,5 +1,5 @@
 
-<img src="upme.jpg" width="300" height="300" align="left">
+<img src="upme.jpg" alt="my photo" width="300" height="300" align="left" hspace="20">
 I'm a young **globetrotter**.
 I was born in India and raised in Bahrain. I've since lived in Canada, Sweden and now Australia in addition to many countries that I have travelled.
 
