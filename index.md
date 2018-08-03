@@ -1,6 +1,5 @@
-<img src="upme.jpg" alt="my photo" width="500" height="500" align="left" hspace="20">
+<img src="upme.jpg" alt="my photo" width="500" height="500" align="right" hspace="20">
 
-<div id = "textbox">
 <font size = "7"> HI! I'M AISHWARYA </font>
 
 I'm a penultimate year student at University of New South Wales and I'm studying Mechanical Engineering.
@@ -14,4 +13,3 @@ I've explored these through projects at [University](https://goo.gl/NUzUTC) and 
 I also enjoy [photography](https://500px.com/aishwaryasahu), sketching and diving.
 
 If you would like to work with me, or grab a coffee and have a chat, I can be reached by <a href="mailto:aishwarya.s@live.com">email</a>
-</div>
