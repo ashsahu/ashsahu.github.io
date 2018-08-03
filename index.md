@@ -1,5 +1,5 @@
 <img src="upme.jpg" alt="my photo" width="300" height="300" align="left" hspace="20">
-HI! I'M AISHWARYA
+# HI! I'M AISHWARYA
 
 I'm a penultimate year student at University of New South Wales and I'm studying Mechanical Engineering.
 
