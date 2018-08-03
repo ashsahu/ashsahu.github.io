@@ -1,5 +1,5 @@
 
-<img src="upme.jpg" alt="my photo" width="450" height="450" align="left" hspace="20">
+<img src="upme.jpg" alt="my photo" width="500" height="500" align="left" hspace="20">
 I'm a penultimate year student at University of New South Wales and I'm studying Mechanical Engineering.
 
 I'm a young globetrotter.
