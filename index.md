@@ -1,5 +1,5 @@
-![face](https://github.com/ashsahu/ashsahu.github.io/blob/master/upme.jpg)
-<img src="https://github.com/ashsahu/ashsahu.github.io/blob/master/upme.jpg" width="100" height="100">
+
+<img src="https://github.com/ashsahu/ashsahu.github.io/blob/master/upme.jpg" width="300" height="300">
 I'm a young **globetrotter**.
 I was born in India and raised in Bahrain. I've since lived in Canada, Sweden and now Australia in addition to many countries that I have travelled.
 
